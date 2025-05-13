@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">✨ Hello, world! I'm Eloá ✨</h1>
 
-<!--
-**Eloa-Duarte/Eloa-Duarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">💻👩‍💻<i>I'm just a girl who studies at Jovem Talento Tech and who is trying to be a great programmer.</i> 👩‍💻💻</h3>
 
-Here are some ideas to get you started:
+### 🧠 About Me
+  🎓 Physics, mathematics and programming student<br/>
+  🏆 Passionate about science olympiads and knowledge competitions<br/>
+  🎀 My personal motivation: Strive not to be a success, but rather to be of value   <sub>  Albert Einstein</sub> <br/>
+  
+  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack:
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+
+## 🌟 Things about me:
+- I really love studying🤓📖  
+- My hobby is watch series and movies🎞💖
+
+## 📱 Where to find me:
+[![Instagram](https://img.shields.io/badge/@eloa_duarte_steam-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eloa_duarte_steam?igsh=MWZmcTQyaGIxanZzcQ==)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eloa-Duarte&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Eloa-Duarte&theme=tokyonight&hide_border=false" /> <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eloa-Duarte&layout=compact&theme=tokyonight" alt="Top Languages" />
+  
+  </p>
+
+  [![](https://visitcount.itsvg.in/api?id=Eloa-Duarte&icon=0&color=0)](https://visitcount.itsvg.in)
