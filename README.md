@@ -18,6 +18,9 @@
 ## 🌟 Things about me:
 - I really love studying🤓📖  
 - My hobby is watch series and movies🎞💖
+- My dream is to be able to program everything I need💻👩‍💻
+
+![Cat Sticker](https://i.pinimg.com/originals/6c/90/28/6c90288d7e10d46d18895f17f420a92c.gif)
 
 ## 📱 Where to find me:
 [![Instagram](https://img.shields.io/badge/@eloa_duarte_steam-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eloa_duarte_steam?igsh=MWZmcTQyaGIxanZzcQ==)
